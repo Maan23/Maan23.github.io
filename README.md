@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Maan23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Maan23/Maan23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!doctype html>
+<html>
+ <head> 
+  <title>Luqmaan Iseng²</title> 
+  <link rel="stylesheet" href="style.css"> 
+ </head> 
+ <body> 
+  <div class="container"> 
+   <h1>Luqmaan Ganteng</h1> 
+   <form> 
+    <label>Isi Username</label> 
+    <br> 
+    <input type="text"> 
+    <br> 
+    <label>Isi Password</label> 
+    <br> 
+    <input type="password"> 
+    <br> 
+    <button>Gausah dipencet, blom jadi</button> 
+   </form> 
+  </div> 
+ </body>
+</html>
