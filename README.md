@@ -1,7 +1,4 @@
-<!doctype html>
-<html>
- <head> 
-  <title>Luqmaan Iseng²</title> 
+
   <link rel="stylesheet" href="style.css"> 
  </head> 
  <body> 
